@@ -4,11 +4,13 @@ function mayuscula(nombre) {
   //La función recibe un nombre y debe devolver el mismo que recibe pero con su primer letra en mayúscula
   //ej: Recibe "mario" ----> Devuelve "Mario"
   //Tu código:
+
 }
 
 function invocarCallback(cb) {
   // Invoca al callback `cb`
   //Tu código:
+cb()
 }
 
 function operacionMatematica(n1, n2, cb) {
@@ -41,6 +43,7 @@ function filter(array) {
   //Filtrar todos los elementos del array que comiencen con la letra "a".
   //Devolver un nuevo array con los elementos que cumplen la condición
   //Tu código:
+  for 
 }
 
 // No modificar nada debajo de esta línea
